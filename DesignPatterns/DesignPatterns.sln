@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Criacao", "1 - Criacao", "{645D2040-73DC-4BBD-A7EE-CE97A878346B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Estrutural", "3 - Estrutural", "{5AD87261-BBB1-4A4B-A85E-90BD75B713D1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Comportamental", "2 - Comportamental", "{C0BC9E6D-12B7-4B5F-B910-F35FE2C4E53F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Criacao.Singleton", "Criacao.Singleton\Criacao.Singleton.csproj", "{AB90F8C3-E7F2-4CAF-B1C6-0A8AB2C4471C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB90F8C3-E7F2-4CAF-B1C6-0A8AB2C4471C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB90F8C3-E7F2-4CAF-B1C6-0A8AB2C4471C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB90F8C3-E7F2-4CAF-B1C6-0A8AB2C4471C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB90F8C3-E7F2-4CAF-B1C6-0A8AB2C4471C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AB90F8C3-E7F2-4CAF-B1C6-0A8AB2C4471C} = {645D2040-73DC-4BBD-A7EE-CE97A878346B}
+	EndGlobalSection
+EndGlobal
